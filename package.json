@@ -4,7 +4,9 @@
   "description": "a practice typescript project",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "go": "npm run build && npm run start"
   },
   "repository": {
     "type": "git",
