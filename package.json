@@ -1,0 +1,22 @@
+{
+  "name": "typescript-practice",
+  "version": "0.0.1",
+  "description": "a practice typescript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-walker/typescript-practice.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Tyler Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t-walker/typescript-practice/issues"
+  },
+  "homepage": "https://github.com/t-walker/typescript-practice#readme"
+}
